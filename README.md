@@ -73,3 +73,5 @@ Catterpillar
 -	Inherits from Animal
 -	Has walkingCapability
 -	On load increments walkCount
+Unit Testing
+- Done through Junit. Implemented project as maven project and added references to Junit.
